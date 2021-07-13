@@ -1,0 +1,7 @@
+{
+  "name" : "isamu",
+  "script" : "./app.js",
+  "env" : {
+    "NODE_ENV" : "production"
+  }
+}

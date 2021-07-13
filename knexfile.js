@@ -34,7 +34,7 @@ module.exports = {
     client: "mysql",
     connection: {
       database: "todo_app",
-      user: "root",
+      user: "isamu",
       password: "Pickles1017",
     },
     pool: {
